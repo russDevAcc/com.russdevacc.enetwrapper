@@ -1,7 +1,9 @@
 {
   "name": "com.russdevacc.enetwrapper",
   "version": "1.2.3",
-  "displayName": "Tiny ENet wrapper to make enet simple to use and memory efficient.",
+  "displayName": "ENet Wrapper",
   "unity": "2019.1",
-  "unityRelease": "0b5"
+  "unityRelease": "0b5",
+  "description": "Tiny ENet wrapper to make enet simple to use and memory efficient.",
+  "type": "sample"
 }
