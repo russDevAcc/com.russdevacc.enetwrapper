@@ -8,9 +8,6 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [
-        "SERVER"
-    ],
     "versionDefines": [],
     "noEngineReferences": false
 }
